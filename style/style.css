@@ -130,6 +130,7 @@ gap: 80px;
       }
       .cabecalho__menu__link{
          width: auto;
+         justify-content: center;
       }
   
       .apresentacao {
